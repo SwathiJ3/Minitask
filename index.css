@@ -1,0 +1,45 @@
+.box{
+    background-color: rgba(182, 221, 240, 0.822);
+    background: url("bg-prlx-big-sky.jpg") no-repeat center;
+    background-size: cover;
+   
+    padding: 60px 10px;
+}
+.container{
+  
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 20px 100px;
+}
+
+  
+.card{
+    width: 60%;
+    background-color: rgb(224, 253, 242);
+    }
+  
+a{
+    color: black;
+    }
+
+  .item {
+   
+    display:inline;
+    margin: 0 10px;
+    
+  }
+
+  input[type="radio"]{
+    margin: 0 10px 0 10px;
+  }
+ 
+  table,
+        th,
+        td {
+        
+          text-align: center;
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+ 
